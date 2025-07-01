@@ -1,0 +1,23 @@
+{
+  "app": {
+    "type": "video",
+    "title": "Rezka AG",
+    "menu": [
+      {
+        "title": "Фильмы",
+        "action": "link",
+        "target": "https://rezka.ag/films/"
+      },
+      {
+        "title": "Сериалы",
+        "action": "link",
+        "target": "https://rezka.ag/series/"
+      },
+      {
+        "title": "Мультфильмы",
+        "action": "link",
+        "target": "https://rezka.ag/animation/"
+      }
+    ]
+  }
+}
