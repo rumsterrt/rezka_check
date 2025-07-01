@@ -1,0 +1,14 @@
+{
+  "msx": {
+    "playlist": [
+      {
+        "title": "HDRezka Фильмы",
+        "url": "https://rezka.ag/films/"
+      },
+      {
+        "title": "HDRezka Сериалы",
+        "url": "https://rezka.ag/series/"
+      }
+    ]
+  }
+}
